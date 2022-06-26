@@ -1,6 +1,6 @@
 package ch04;
 
-public class prac4_2 {
+public class Prac4_2 {
     public static void main(String[] args) {
 
         int sum = 0;

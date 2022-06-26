@@ -1,6 +1,6 @@
 package ch04;
 
-public class prac4_1 {
+public class Prac4_1 {
     /*
             1. x > 10 && x < 20
             2. ch != " " || ch != "\t"
