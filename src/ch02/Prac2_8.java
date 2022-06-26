@@ -13,7 +13,6 @@ public class Prac2_8 {
         x = temp2;
         z = temp;
 
-
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
