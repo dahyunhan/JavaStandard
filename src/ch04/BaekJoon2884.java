@@ -1,8 +1,8 @@
-package baekjoon;
+package ch04;
 
 import java.util.Scanner;
 
-public class Timer2884 {
+public class BaekJoon2884 {
 
     public static void main(String[] args) {
 
